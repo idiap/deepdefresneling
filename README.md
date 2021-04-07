@@ -198,5 +198,9 @@ python3 edh/python/nano_grab.py --weights path/to/pth/file.pth --model [AE/SRCNN
 * [**Liu Changyu**](https://github.com/Lornatang) - [SRCNN implementation in pytorch](https://github.com/Lornatang/SRCNN-PyTorch)
 * **Nikhil Chacko, Michael Liebling** - [Fresnelet Transform implementation in matlab](http://sybil.ece.ucsb.edu/pages/gcvfft/index.html)
 
+This work was supported by the Swiss National Science Foundation (SNSF), Grants:
+* 206021_164022 'Platform for Reproducible Acquisition, Processing, and Sharing of Dynamic, Multi-Modal Data' (PLATFORM_MMD)
+* 200020_179217 'Computational biomicroscopy: advanced image processing methods to quantify live biological systems' (COMPBIO)
+
 ## License
 This is free software: you can redistribute it and/or modify it under the terms of the BSD-2-Clause licence.
