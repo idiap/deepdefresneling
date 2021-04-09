@@ -186,8 +186,8 @@ This will save 5 pictures to the current directory, have a look!
 ### Acquiring samples and running them through the model
 Clone this repository, connect the camera to the Jetson Nano, and you can run the test script!
 ```
-git clone https://gitlab.idiap.ch/rclerc/embedded_digital_holography edh
-python3 edh/python/nano_grab.py --weights path/to/pth/file.pth --model [AE/SRCNN]
+git clone https://github.com/idiap/deepdefresneling ddf
+python3 ddf/python/nano_grab.py --weights path/to/pth/file.pth --model [AE/SRCNN]
 ```
 
 ## Author
