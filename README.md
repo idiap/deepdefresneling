@@ -27,7 +27,7 @@ pip install h5py jupyter notebook matplotlib numpy pillow torch torchvision
 
 You can then clone this repository to your device
 ```
-git clone https://gitlab.idiap.ch/rclerc/embedded_digital_holography .
+git clone https://github.com/idiap/deepdefresneling .
 ```
 
 Each time you come back to work on this environment, you will need to activate the environment by running
