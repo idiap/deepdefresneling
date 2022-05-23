@@ -191,7 +191,7 @@ python3 ddf/python/nano_grab.py --weights path/to/pth/file.pth --model [AE/SRCNN
 ```
 
 ## Author
-* **Rémi Clerc** - [Minauras](https://github.com/Minauras)
+* **Nara Clerc** - [Minauras](https://github.com/Minauras)
 
 ## Acknowledgments
 
